@@ -6,10 +6,15 @@ using System.Web.Mvc;
 
 namespace Students_Record_Web.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         public ActionResult Index()
         {
+            if(User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             return View();
         }
 

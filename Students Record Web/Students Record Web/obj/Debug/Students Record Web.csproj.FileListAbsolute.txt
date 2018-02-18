@@ -1,0 +1,71 @@
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\obj\Debug\Students Record Web.csprojResolveAssemblyReference.cache
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\obj\Debug\Students Record Web.csproj.CoreCompileInputs.cache
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\ApplicationInsights.config
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Students Record Web.dll.config
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Students Record Web.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Students Record Web.pdb
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Antlr3.Runtime.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\EntityFramework.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\EntityFramework.SqlServer.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AI.DependencyCollector.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AI.Web.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AI.WindowsServer.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.ApplicationInsights.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.Google.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Web.Infrastructure.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Newtonsoft.Json.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Owin.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.Helpers.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.Mvc.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.Optimization.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.Razor.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.WebPages.Deployment.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.WebPages.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.WebPages.Razor.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\WebGrease.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.Helpers.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.Mvc.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.Optimization.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.Razor.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.WebPages.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.WebPages.Deployment.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\System.Web.WebPages.Razor.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Antlr3.Runtime.pdb
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Newtonsoft.Json.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\EntityFramework.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\EntityFramework.SqlServer.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.Google.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.ApplicationInsights.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AI.DependencyCollector.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AI.WindowsServer.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\bin\Microsoft.AI.Web.xml
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\obj\Debug\Students Record Web.dll
+G:\Pros\Students Record\Students-Records\Students Record Web\Students Record Web\obj\Debug\Students Record Web.pdb
