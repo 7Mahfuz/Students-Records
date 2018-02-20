@@ -15,6 +15,10 @@ namespace Students_Record_Web.Controllers
         // GET: Student
         public ActionResult Index()
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             var model = _context.Students.ToList();
             return View(model);
         }
@@ -22,6 +26,10 @@ namespace Students_Record_Web.Controllers
         // GET: Student/Details/5
         public ActionResult Details(int id)
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             Student student = _context.Students.Find(id);
             return View(student);
         }
@@ -29,6 +37,10 @@ namespace Students_Record_Web.Controllers
         // GET: Student/Create
         public ActionResult Create()
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             return View();
         }
 
@@ -61,6 +73,10 @@ namespace Students_Record_Web.Controllers
         // GET: Student/Edit/5
         public ActionResult Edit(int id)
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             Student student = _context.Students.Find(id);
             return View(student);
         }
@@ -103,6 +119,10 @@ namespace Students_Record_Web.Controllers
         // GET: Student/Delete/5
         public ActionResult Delete(int id)
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             Student student = _context.Students.Find(id);
             return View(student);
         }

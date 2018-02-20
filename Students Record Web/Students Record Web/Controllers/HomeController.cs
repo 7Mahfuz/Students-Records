@@ -20,6 +20,10 @@ namespace Students_Record_Web.Controllers
 
         public ActionResult About()
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             ViewBag.Message = "Your application description page.";
 
             return View();
@@ -27,6 +31,10 @@ namespace Students_Record_Web.Controllers
 
         public ActionResult Contact()
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             ViewBag.Message = "Your contact page.";
 
             return View();
